@@ -49,7 +49,7 @@ Energetic and innovative 1st year Aerospace PhD student, skilled in CAD design, 
 - **GCSEs:** 10 (Grades 9–5), including English Language (6)  
 
 ---
-
+<!--
 ## **Experience**
 
 ### **Refurbishment Project** – *Birmingham & Amersham*  
@@ -73,7 +73,7 @@ Energetic and innovative 1st year Aerospace PhD student, skilled in CAD design, 
 - Member of the **Aerodynamics Team**.  
 - Assisted with wind tunnel testing and CFD simulations using CATIA and OpenFOAM.  
 - Analysed telemetry data in MATLAB and contributed to design discussions.  
-
+-->
 ---
 
 ## **Conference Presentations**
