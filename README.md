@@ -20,7 +20,7 @@ Energetic and innovative 1st year Aerospace PhD student, skilled in CAD design, 
 ## **Technical Skills**
 - **Software:** ANSYS Workbench (FMEA & CFD), SolidWorks, Gmsh, ParaView, OpenFOAM  
 - **Programming:** C, Fortran, MATLAB  
-- **HPC Tools:** BlueBEAR  
+- **HPC Tools:** BlueBEAR, Baskerville  
 
 ---
 
